@@ -1,0 +1,28 @@
+body {
+    background-size: cover;
+        background-position:center
+}
+
+.heading {
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0px
+}
+
+.note {
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 50px
+}
+
+.btn-primary:hover {
+    background-color: black
+}
+.i1{width: 200px;
+    border-radius: 100px            
+    
+    
+}
+.div_song{float:left}
+
+canvas{border: 5px solid purple}
